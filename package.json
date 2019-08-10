@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "Create React Figma Plugin with no build configuration.",
   "main": "code.js",
+  "homepage": "https://github.com/FradSer/create-react-figma-plugin/",
+  "bugs": "https://github.com/FradSer/create-react-figma-plugin/issues",
+  "repository": {
+    "url": "https://github.com/FradSer/create-react-figma-plugin/",
+    "type": "git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch --mode development",
