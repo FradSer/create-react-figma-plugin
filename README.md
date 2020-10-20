@@ -8,6 +8,7 @@ This demonstrates:
 - using React with TSX
 - dependency management under Yarn
 - linting utility using ESLint
+- linting style using StyleLint
 - formatting using Prettier
 
 The main plugin code is in `src/code.ts`. The HTML for the UI is in

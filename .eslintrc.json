@@ -11,18 +11,15 @@
     "plugin:react/recommended",
     "prettier/@typescript-eslint"
   ],
-  "plugins": [
-    "@typescript-eslint",
-    "prettier",
-    "react"
-  ],
+  "plugins": ["@typescript-eslint", "prettier", "react"],
   "rules": {
     "prettier/prettier": [
       "error",
       {
         "singleQuote": true,
         "parser": "flow"
-      }
+      },
+      { "usePrettierrc": true }
     ],
     "@typescript-eslint/explicit-function-return-type": 0,
     "@typescript-eslint/explicit-member-accessibility": 0
