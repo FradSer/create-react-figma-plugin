@@ -10,6 +10,7 @@ This demonstrates:
 - linting utility using ESLint
 - linting style using StyleLint
 - formatting using Prettier
+- hot reload support using [`modd`](https://github.com/cortesi/modd), please `brew install modd` first
 
 The main plugin code is in `src/code.ts`. The HTML for the UI is in
 `src/ui.html`, while the embedded JavaScript is in `src/ui.tsx`.
@@ -20,6 +21,7 @@ your plugin.
 To use:
 
     $ yarn
+    $ modd
     $ yarn start
     $ yarn lint
     $ yarn build
