@@ -11,6 +11,7 @@ This demonstrates:
 - linting style using StyleLint
 - formatting using Prettier
 - hot reload support using [`modd`](https://github.com/cortesi/modd), please `brew install modd` first
+- design system using [`react-figma-plugin-ds`](https://github.com/alexandrtovmach/react-figma-plugin-ds)
 
 The main plugin code is in `src/code.ts`. The HTML for the UI is in
 `src/ui.html`, while the embedded JavaScript is in `src/ui.tsx`.
