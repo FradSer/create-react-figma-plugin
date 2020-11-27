@@ -22,7 +22,6 @@ your plugin.
 To use:
 
     $ yarn
-    $ modd
     $ yarn start
     $ yarn lint
     $ yarn build
