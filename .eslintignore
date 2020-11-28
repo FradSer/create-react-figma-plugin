@@ -1,2 +1,4 @@
 src/registerServiceWorker.js
 src/**/__tests__/**
+webpack.config.js
+figma.d.ts
