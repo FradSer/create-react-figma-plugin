@@ -1,4 +1,6 @@
-# Create React Figma Plugin
+**⚠️This repository has archived. Use [@fradser/figma-plugin-template](https://github.com/FradSer/figma-plugin-template).**
+
+# ☠️Create React Figma Plugin
 
 Create React Figma Plugin with no build configuration.
 
